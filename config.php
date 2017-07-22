@@ -1,0 +1,1 @@
+<?php $config["database"] = "gitcil_fausr"; $config["host"]= "localhost";$config["username"]= "gitcil_fadb"; $config["password"]= "2ksGC89df$";?>
